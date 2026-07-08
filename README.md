@@ -30,15 +30,6 @@ A complete Android grocery store management application built with **Jetpack Com
 | **State Management** | StateFlow, MutableState |
 | **Build Tool** | Gradle (Kotlin DSL) |
 
----
-
-## 📸 Screenshots
-
-*(Add screenshots here after running the app)*
-
-| Login Screen | Product List | Add Product Dialog |
-|:---:|:---:|:---:|
-| [Add screenshot] | [Add screenshot] | [Add screenshot] |
 
 ---
 
